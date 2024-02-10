@@ -1,4 +1,4 @@
-Certainly! Below is a template for a README file tailored to your used car price prediction project:
+
 
 ---
 
